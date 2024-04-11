@@ -1,6 +1,6 @@
 # PigaKura
 
-In this repo, I am going to cover all aspects of building a voting smart contract, sourcing my knowledge from the latest Solidity docs. [0.8.26]
+## In this repo, I am going to cover all aspects of building a voting smart contract, sourcing my knowledge from the latest Solidity docs. [0.8.26]
 
 ### Initializing a Hardhat project
 
@@ -16,4 +16,4 @@ Run the following commands on the terminal:
 2. Install Hardhat as a development dependency in the project by running `npm install --save-dev hardhat`. Otherwise, Hardhat can be installed globally by running `npm install -g hardhat`, but use the first one please. We'll dive into difference later.
 3. After installing Hardhat locally, run `npx hardhat` to create a hardhat project, follow the prompts that come afterwards and choose **Create Javascript Project**
 
-Nice and easy, we have a skeleton of our project with 4 folders: contracts, ignition, node_modules, and test.
+## Nice and easy, we have a skeleton of our project with 4 folders: contracts, ignition, node_modules, and test.
