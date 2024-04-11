@@ -1,2 +1,3 @@
-# CryptoZombies
-This is a repository I created to follow up with the solidity coding tutorial from Crypto zombies
+# PigaKura
+
+In this repo, I am going to cover all aspects of building a voting smart contract, sourcing my knowledge from the latest Solidity docs. [0.8.26]
