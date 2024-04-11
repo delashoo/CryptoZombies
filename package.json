@@ -1,0 +1,24 @@
+{
+  "name": "pigakura",
+  "version": "1.0.0",
+  "description": "In this repo, I am going to cover all aspects of building a voting smart contract, sourcing my knowledge from the latest Solidity docs. [0.8.26]",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/samdimek/PigaKura.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/samdimek/PigaKura/issues"
+  },
+  "homepage": "https://github.com/samdimek/PigaKura#readme",
+  "devDependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^5.0.0",
+    "hardhat": "^2.22.2"
+  }
+}
